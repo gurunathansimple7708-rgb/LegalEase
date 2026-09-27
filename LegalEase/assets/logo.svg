@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="180" viewBox="0 0 700 180">
+<rect width="700" height="180" rx="30" fill="#111827"/>
+<circle cx="90" cy="90" r="55" fill="#f59e0b"/>
+<path d="M90 45v90M55 65h70M62 65l-18 35c-3 7 3 15 11 15h14c8 0 14-8 11-15L62 65zm56 0-18 35c-3 7 3 15 11 15h14c8 0 14-8 11-15l-18-35z" fill="none" stroke="#111827" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="165" y="105" font-family="Arial, sans-serif" font-size="62" font-weight="700" fill="white">LegalEase</text>
+</svg>
